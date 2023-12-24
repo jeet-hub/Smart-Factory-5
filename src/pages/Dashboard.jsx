@@ -125,7 +125,7 @@ const Dashboard = () => {
                     <div className="card-box">
                         <div className="graph-center">
                             <div className="topbarname">
-                            <h4 className='bar-header'>Total system energy consumption</h4>
+                            <h4 className='bar-header'>Total System Energy Consumption</h4>
                             <NavLink className='table-text' to="/ems">
                                 <img style={{width:"90px"}} src="./img/More.svg" alt="expend-button" />
                             </NavLink>
