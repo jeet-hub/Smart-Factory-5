@@ -35,7 +35,7 @@ const Cbm = () => {
         }, []);
       
         if (loading) {
-          return <p>Loading...</p>;
+          return <p>Loading....</p>;
         }
       
         if (!data) {
